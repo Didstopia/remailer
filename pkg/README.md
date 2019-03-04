@@ -1,0 +1,3 @@
+# `/pkg`
+
+Reusable, public libraries.
